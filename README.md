@@ -24,4 +24,4 @@ To modernize and secure personal and business partnerships by leveraging blockch
 
 ## Contract Details
 0x90432Ffd59221Db4a50B10bB73613e19598a5F0a
-![alt text](image.png)
+![alt text](image.png) 
