@@ -1,5 +1,5 @@
 # Project Title: BondChain: Smart Prenup & Partnership Contracts
-
+name: lucky binjwe 
 ## Project Description
 
 BondChain is a decentralized platform to create, store, and manage smart prenup and partnership contracts on-chain. It enables transparent, immutable partnership agreements with off-chain terms verifiable via hashes.
